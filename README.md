@@ -169,7 +169,40 @@ By the end of this course, students will be able to:
 - Writing to files
 - Appending data
 - File error handling
+---
 
+## Exception Handling (Error Handling)
+
+### Types of Errors in Programming
+- Syntax Errors  
+- Runtime Errors  
+- Logical Errors  
+
+---
+
+### Exception Handling Concepts
+- Introduction to Exceptions  
+- Why we use Exception Handling  
+- `try` block  
+- `catch` block  
+- `throw` keyword  
+
+---
+
+### Advanced Handling
+- Handling multiple exceptions  
+- Catching all exceptions (`catch(...)`)  
+- Standard exceptions (basic idea)  
+
+---
+
+### Notes
+- Write clear and meaningful error messages  
+- Avoid using exceptions for normal program flow  
+- Catch only necessary exceptions  
+- Keep exception handling simple and readable  
+
+---
 ---
 
 ## Dynamic Memory & Heap
