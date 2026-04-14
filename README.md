@@ -289,6 +289,7 @@ Students are encouraged to use and modify the code for learning.
 
 **Structural Programming in C++**  
 Department of AI, College of Information Technology.
+
 Coverd By Mohammed A.S. Al-Hitawi (Practice Part) & Basim M. Salah (Lectuer Part)
 
 
