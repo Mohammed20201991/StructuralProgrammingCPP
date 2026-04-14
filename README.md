@@ -140,6 +140,13 @@ By the end of this course, students will be able to:
 - Basic string manipulation
 - String functions
 
+## Enumeration (enum)
+- Enumeration declaration
+- Enumeration definition
+- Enumeration prototype
+- Enumeration Properites
+- Nested Enumeration
+- Array of Enumeration
 ---
 
 ## Vectors (STL Introduction)
