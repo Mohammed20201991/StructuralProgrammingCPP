@@ -31,3 +31,32 @@ int main() {
   return 0;
 }
 
+// ************************ After using array 
+// #include <iostream>
+// using namespace std;
+
+// // Define structure
+// struct Student {
+//   string name;
+//   int age;
+// };
+
+// int main() {
+
+//   // Array of structures
+//   Student students[3];
+
+//   // Assign values using loop
+//   for(int i = 0; i < 3; i++) {
+//     cout << "Enter name and age for student " << i+1 << ": ";
+//     cin >> students[i].name >> students[i].age;
+//   }
+
+//   // Print values
+//   cout << "\nStudent Data:\n";
+//   for(int i = 0; i < 3; i++) {
+//     cout << students[i].name << " - " << students[i].age << endl;
+//   }
+
+//   return 0;
+// }
