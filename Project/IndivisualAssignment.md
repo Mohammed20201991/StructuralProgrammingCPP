@@ -66,3 +66,26 @@ You can tell them:
 
 “Each student will present their project for 5 minutes.
 Explain your idea, show how your program works, and I may ask you questions about your code.”
+---
+### 📊 C++ Project Evaluation Rubric (Total: 10 Marks)
+
+| Criteria           | Description                                           | Marks |
+| ------------------ | ----------------------------------------------------- | ----- |
+|  Functionality    | Program works correctly and meets basic requirements  | 3     |
+|  Use of Concepts | Proper use of functions, arrays, struct, control flow | 2     |
+|  Code Quality    | Clean and readable code                               | 1     |
+|  Repository      | Repo created correctly with files uploaded            | 1     |
+|  Documentation   | Simple README explaining the project                  | 1     |
+|  Creativity      | Extra idea or feature                                 | 1     |
+|  Presentation    | Clear explanation during lab                          | 1     |
+
+---
+
+###  Notes
+
+* Total = **10 Marks**
+* Missing submission = **0**
+* Copying = **0**
+
+
+Send github link to [Submution Link]()
